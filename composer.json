@@ -20,6 +20,7 @@
         "drupal/core-composer-scaffold": "^10.5",
         "drupal/core-project-message": "^10.5",
         "drupal/core-recommended": "^10.5",
+        "drupal/json_field": "^1.7",
         "drush/drush": "^13"
     },
     "conflict": {
